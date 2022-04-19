@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glody-amadeus
 - 👀 I’m interested in Machine Learning, Blockchain and Operating Systems
 - 🌱 I’m currently learning about blockchain development
-- 💞️ I’m looking to collaborate on Soalna and Ethereum hopefully
+- 💞️ I’m looking to collaborate on Solana and Ethereum hopefully
 - 📫 Reach me @ mutebwa_eth on Twitter
 
 <!---
